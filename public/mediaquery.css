@@ -1,3 +1,8 @@
+
+#experience{
+  height: auto;
+}
+
 @media screen and (max-width: 1400px) {
     #profile {
       height: 83vh;
@@ -10,6 +15,7 @@
     #projects {
       height: fit-content;
     }
+   
   }
 
   
