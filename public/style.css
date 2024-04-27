@@ -364,6 +364,10 @@ section {
   gap: 2.5rem;
   justify-content: space-around;
 }
+.article-container img{
+  width: 400px;
+  height: 300px;
+}
 
 article {
   display: flex;
